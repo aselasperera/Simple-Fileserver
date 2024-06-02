@@ -19,7 +19,7 @@ A concise and straightforward Go application to serve the contents of a local di
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/simple-go-file-server.git
+    git clone https://github.com/aselasperera/Simple-Fileserver
     cd simple-go-file-server
     ```
 
